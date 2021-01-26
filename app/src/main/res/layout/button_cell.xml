@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/cell_size"
+    android:layout_height="@dimen/cell_size"
+    style="@style/CellTic"
+    android:background="@drawable/rounded_layout"
+    android:backgroundTint="@color/white"
+    android:padding="7dp"
+
+    android:contentDescription="X or O" />
